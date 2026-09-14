@@ -25,19 +25,19 @@ I provided the possibility for Stonehewer to use auras and custom modes for "Jac
 - Your deck consists of 60 assorted basic lands, typically more swamps and/or mountains than others.
 - Otherwise, normal MtG outside of optional Life/Hand changes.
 
-Momir (Optional: Life+4):
+- Momir (Optional: Life+4):
   {X}, Discard a card: Create a token copy of a random creature card of mana value X. Activate only as a sorcery and only once each turn.
 
-Stonehewer Giant (Optional: Life-5. Hand+1): 
+- Stonehewer Giant (Optional: Life-5. Hand+1): 
    Whenever a creature you control enters, create a token that's a copy of a random Equipment card with mana value less than that creature's mana value. Attach that Equipment to that creature.
 
-Jhoira (Optional: Hand+1):
+- Jhoira (Optional: Hand+1):
   {3}, Discard a card, Choose instant or sorcery: View three random distinct cards of the type chosen. You may cast a copy of one of them without paying its mana cost. You may choose sorcery only if activated as a sorcery.
 
-Jace (expanded Momir, Optional: Life+1): 
+- Jace (expanded Momir, Optional: Life+1): 
   {X}, Discard a card, Choose any number of card type(s): Create a token copy of a random card of one or more of the chosen type(s). Activate only as a sorcery (unless the only chosen type is instant) and only once each turn.
 
-Tibalt (expanded Jhoira, Optional: Hand-2):
+- Tibalt (expanded Jhoira, Optional: Hand-2):
   {3}, Discard a card, Choose any number of card type(s): View three random distinct cards of one or more of the chosen type(s). You may cast a copy of one of them without paying its mana cost. You may choose non-instant types only as a sorcery.
 
 ## In Practice
