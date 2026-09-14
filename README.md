@@ -21,10 +21,12 @@ I provided the possibility for Stonehewer to use auras and custom modes for "Jac
 
 ## MoJhoSto Expanded Rules
 
+Format:
 - Number of Players: 2+
 - Your deck consists of 60 assorted basic lands, typically more swamps and/or mountains than others.
 - Otherwise, normal MtG outside of optional Life/Hand changes.
 
+Modes (Vanguards):
 - Momir (Optional: Life+4):
   {X}, Discard a card: Create a token copy of a random creature card of mana value X. Activate only as a sorcery and only once each turn.
 - Stonehewer Giant (Optional: Life-5. Hand+1): 
