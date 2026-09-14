@@ -1,0 +1,4 @@
+requests
+Pillow
+python-escpos
+pyusb
