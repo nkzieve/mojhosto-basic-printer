@@ -19,9 +19,7 @@ Hayden Moritz created a receipt printer iteration of Momir Basic [for Raspberry 
 
 I provided the possibility for Stonehewer to use auras and custom modes for "Jace" and "Tibalt" which allow for any type selection for either Momir or Jhoira style Vanguards. Partially vibe-coded, checked closely for functionality. Jhoira and Tibalt don't provide pictures because it would get unwieldy.
 
-<div align="center">
-  ![MoJhoSto Vanguards](examples/mojhosto.jpg)
-</div>
+![MoJhoSto Vanguards](examples/mojhosto.jpg)
 
 ## MoJhoSto Expanded Rules
 
